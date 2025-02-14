@@ -15,3 +15,7 @@ tomcat-users.xml 설정
   <user username="admin" password="admin1234" roles="admin"/>
   <user username="guest" password="guest1234" roles="guest"/>
 
+
+
+
+![PDF 미리보기](https://github.com/CJWJAVAC/ScreenTranslator/blob/main/ExampleImage.png)
