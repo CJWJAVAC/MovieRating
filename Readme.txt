@@ -18,4 +18,4 @@ tomcat-users.xml 설정
 
 
 
-![PDF 미리보기](https://github.com/CJWJAVAC/ScreenTranslator/blob/main/ExampleImage.png)
+![미리보기](https://github.com/CJWJAVAC/MovieRating/blob/master/picture/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
