@@ -17,6 +17,3 @@ tomcat-users.xml 설정
 
 
 
-
-![로그인 화면](https://github.com/CJWJAVAC/MovieRating/blob/master/login.png)
-![작동 예시](https://github.com/CJWJAVAC/ScreenTranslator/blob/main/ExampleImage.png)
